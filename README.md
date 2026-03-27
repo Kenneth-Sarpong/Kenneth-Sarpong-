@@ -34,3 +34,14 @@
 ---
 
 ⭐️ Feel free to explore my repositories and reach out if you'd like to collaborate!
+# Hi, I'm Kenneth Ofori Sarpong 👋
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Oil & Gas](https://img.shields.io/badge/Oil%20%26%20Gas-005F73?style=for-the-badge&logo=dropbox&logoColor=white)
+![Project Management](https://img.shields.io/badge/Project%20Management-007ACC?style=for-the-badge&logo=trello&logoColor=white)
+
+---
