@@ -1,4 +1,5 @@
 # Hi, I'm Kenneth Ofori Sarpong 👋
+https://img.shields.io/badge/Python-3.10-blue?logo=python
 
 🎓 Oil and Gas Engineering graduate with hands-on experience in engineering operations, project management, and logistics.  
 💻 Skilled in Python, SQL, and advanced Excel, with foundational knowledge in AWS and Linux.  
@@ -92,6 +93,15 @@ This function highlights:
 - Code Readability: Clear structure and descriptive return messages.  
 - Practical Application: Real‑world relevance to e‑commerce and retail systems.  
 
+
+### Future Improvements
+- Unit Tests: Add automated tests to validate the function against edge cases.  
+- Type Hints: Use Python type annotations for better readability and integration with static analysis tools.  
+- Bulk Discounts: Extend the function to handle multiple items or cart totals.  
+- Integration: Connect with a simple e‑commerce workflow to simulate checkout scenarios.  
+- Error Logging: Implement logging for invalid inputs to support debugging in larger systems
+
+  
 ---
 
 
