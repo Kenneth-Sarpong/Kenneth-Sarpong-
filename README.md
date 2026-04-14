@@ -1,5 +1,10 @@
 # Hi, I'm Kenneth Ofori Sarpong 👋
-https://img.shields.io/badge/Python-3.10-blue?logo=python
+# Kenneth Ofori Sarpong
+
+[![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)](https://www.python.org/)
+[![GitHub Stats](https://img.shields.io/badge/GitHub-Profile-lightgrey?logo=github)](https://github.com/Kenneth-Sarpong)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Kenneth-Sarpong)
 
 🎓 Oil and Gas Engineering graduate with hands-on experience in engineering operations, project management, and logistics.  
 💻 Skilled in Python, SQL, and advanced Excel, with foundational knowledge in AWS and Linux.  
