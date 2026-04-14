@@ -49,7 +49,7 @@
 
 ### Apply discount function 
 
-Overview
+# Overview
 This project demonstrates a simple yet practical Python function, apply_discount, which calculates the final price of an item after applying a percentage discount. It showcases clean coding practices, input validation, and real-world problem solving — essential skills for engineering and data analytics roles.
 
 Function Definition
@@ -95,4 +95,3 @@ Skills Demonstrated
 ---
 
 
-Add README with apply_discount function.
